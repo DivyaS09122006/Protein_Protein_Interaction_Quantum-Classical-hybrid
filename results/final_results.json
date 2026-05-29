@@ -1,0 +1,15 @@
+{
+  "classical_steps_demo": 1000,
+  "grover_steps_demo": 24,
+  "speedup_demo": 41.7,
+  "classical_steps_full": 70876,
+  "grover_steps_full": 209,
+  "speedup_full": 339.1,
+  "target_pair": [
+    "A0JP26",
+    "A8MW99"
+  ],
+  "rf_score": 1.0,
+  "rf_f1": 0.22,
+  "rf_recall": 0.36
+}
